@@ -1,4 +1,4 @@
-name: CI/CD - democyber
+﻿name: CI/CD - democyber
 
 on:
   push:
